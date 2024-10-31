@@ -1,19 +1,22 @@
-# Hello, I'm Stephanie 👋
+# Hi, I'm Stephanie! 👋
 
-I'm a passionate UI Developer specializing in creating interactive and user-friendly web experiences. I have expertise in HTML, CSS, JavaScript, and React, with a strong focus on responsive design, accessibility, and performance.
+I'm a UI Developer with a Master's degree in Information Technology and over 3 years of experience in software development. I specialize in developing and implementing highly-responsive user interface components for web and mobile applications using React. I also hold AIGPE Green Belt and Black Belt certifications.
 
 ## 🌟 Skills
-- HTML5, CSS3 (Sass, Flexbox, Grid)
-- JavaScript (ES6+), React, Redux
-- UI/UX Design principles
-- Version Control with Git & GitHub
-- Familiarity with testing (Jest, React Testing Library)
-- # Interactive Data Dashboard
+- **Languages**: JavaScript, HTML5, CSS3 (Sass)
+- **Frameworks/Libraries**: React, Redux, Umbraco
+- **Data Visualization**: D3.js, Chart.js
+- **Testing**: Jest, React Testing Library
+- **Version Control**: Git, GitHub
+- **Project Management**: Agile methodologies, Scrum
 
-## 🛠️ Tech Stack
-- **Frontend**: React, D3.js, CSS Modules
-- **Backend**: Mock API (JSON Server)
-- ## 🚀 Features
-- Real-time data updates
-- Interactive charts and tooltips
-- Responsive layout for desktop and tablet# swalker-showcase
+## 🚀 Projects
+Here are a few projects I've worked on:
+
+- [Responsive E-commerce Website](https://github.com/your-username/responsive-ecommerce)
+- [Interactive Data Dashboard](https://github.com/your-username/data-dashboard)
+- [Personal Blog with Dark Mode](https://github.com/your-username/personal-blog)
+
+## 🌐 Connect with Me
+- [LinkedIn](https://linkedin.com/in/your-profile)
+- [Portfolio Website](https://your-portfolio-site.com)
